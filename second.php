@@ -5,3 +5,7 @@
         var_dump($arr);
         echo '<pre>';
     }
+
+    function change(){
+        //code
+    }
