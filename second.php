@@ -1,11 +1,14 @@
-<?php
+secend.php
 
-    function dump($arr){
-        echo '<pre>';
-        var_dump($arr);
-        echo '<pre>';
-    }
+  content{
+  
+  
+    
+  
+  
+  
+  
+  
+  }
 
-    function change(){
-        //code
-    }
+
