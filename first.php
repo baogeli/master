@@ -1,1 +1,4 @@
-master2 content
+<?php
+
+
+$str = "mster2 content baogeli";
