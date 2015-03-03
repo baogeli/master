@@ -1,10 +1,2 @@
 master分支上的开发
 master22222222222
-在list分支上的开发
-master22222222
-
-baogeli
-wawawawawawaww
-
-
-hahaha
